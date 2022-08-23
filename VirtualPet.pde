@@ -1,11 +1,9 @@
 
 void setup(){
-  //some of your code here
-}
-void draw(){
   size(400,400);
   noStroke();
-
+}
+void draw(){
   //head
   fill(255,255,255);
   ellipse(200,200,200,250);

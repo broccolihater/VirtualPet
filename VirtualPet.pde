@@ -59,3 +59,8 @@ void setup() {
   }
   
 }
+
+//coordinates
+void draw() {
+  System.out.println(mouseX + "," + mouseY);
+}
